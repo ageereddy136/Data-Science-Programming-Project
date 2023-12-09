@@ -1,1 +1,3 @@
 # Data-Science-Programming-Project
+
+The main goal of our project is to find the type of skin cancer based on the lesion formed on the skin. As we wanted to predict images on an ongoing Skin-cancer diseases with data captured in the format of images. Artificial intelligence that has been trained to classify photos of skin lesions as Melanocytic nevi, Melanoma, Benign keratosis-like lesions, Basal cell carcinoma, Actinic keratoses, Vascular lesions, Dermatofibroma skin malignancies these images are classified by dermatologist Which are ground truths for our scenario. We show how to classify skin lesions with a 3 layered CNN that was trained end-to -end from photos utilizing only pixels and disease labels.
